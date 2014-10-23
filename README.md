@@ -1,6 +1,10 @@
-SVG Sprite Demo
-===============
+### Tuts+ Tutorial: How to Implement Cross-Browser SVG Sprites
+#### Instructor: David Darnes
 
-A demo showing the usage of SVG sprites. To coincide with my tuts+ tutorial.
+In this tutorial I’m going to demonstrate a basic implementation of some SVG icons, how to produce a fallback, and how to turn them into an SVG sprite.
 
-[View the demo](http://david.darn.es/svg-sprite-demo/)
+Source files for the Tuts+ tutorial: [How to Implement Cross-Browser SVG Sprites](http://webdesign.tutsplus.com/tutorials/using-svgs-creating-svg-sprites--cms-22427)
+
+**Available on Tuts+ October, 2014**
+
+[View the demo](http://tutsplus.github.io/svg-sprite-demo)
